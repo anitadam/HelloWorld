@@ -7,6 +7,6 @@ public class HelloWorld {
         System.out.println("Hello klassen! ");
 
         System.out.println("ny ändring i från branch");
-        
+        // kommentar
     }
 }
